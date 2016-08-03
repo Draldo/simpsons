@@ -20,4 +20,10 @@
         android:text="Show Simpson's characters"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
+
+    <ListView
+        android:background="@color/colorPrimary"
+        android:id="@+id/a_main_listview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"></ListView>
 </LinearLayout>
